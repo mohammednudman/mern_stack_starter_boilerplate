@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="id" value="8bc19ad5-7130-4ed2-93ba-46a84c289587" />
+          <option name="name" value="Client" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="body">
+                  <bodyState>
+                    <option name="raw" value="{&#10;  &quot;username&quot;: &quot;test&quot;,&#10;  &quot;password&quot;: &quot;test&quot;&#10;}" />
+                    <option name="type" value="JSON" />
+                  </bodyState>
+                </option>
+                <option name="headers">
+                  <list>
+                    <headerState>
+                      <option name="key" value="Content-Type" />
+                      <option name="value" value="application/json" />
+                    </headerState>
+                  </list>
+                </option>
+                <option name="id" value="f732df0e-2196-4724-bce5-5c4507268fe0" />
+                <option name="method" value="POST" />
+                <option name="name" value="Register" />
+                <option name="url" value="http://localhost:8000/api/auth/register" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="C:\Programming\Projects\Chat_Application\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="e6b65e5e-76ac-42f0-a7af-6be00b76924a" />
+  </component>
+</project>
